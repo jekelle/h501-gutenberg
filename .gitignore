@@ -1,6 +1,5 @@
-__pycache__/
-*.csv
 venv/
 .DS_Store
+__pycache__/
 *.pyc
 .ipynb_checkpoints/
