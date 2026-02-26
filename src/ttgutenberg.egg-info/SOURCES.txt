@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/ttgutenberg/__init__.py
+src/ttgutenberg/download.py
+src/ttgutenberg/process.py
+src/ttgutenberg.egg-info/PKG-INFO
+src/ttgutenberg.egg-info/SOURCES.txt
+src/ttgutenberg.egg-info/dependency_links.txt
+src/ttgutenberg.egg-info/top_level.txt
