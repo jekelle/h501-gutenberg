@@ -5,16 +5,7 @@ AUTHORS_URL = "https://raw.githubusercontent.com/rfordatascience/tidytuesday/mai
 
 
 def list_authors(by_languages=False, alias=False):
-    """
-    Returns a list of Gutenberg authors.
-
-    Parameters:
-        by_languages (bool): If True, returns a dictionary grouped by language.
-        alias (bool): If True, returns author aliases instead of primary names.
-
-    Returns:
-        list or dict
-    """
+  
 
     df = pd.read_csv(AUTHORS_URL)
 
